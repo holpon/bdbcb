@@ -29,4 +29,6 @@ vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.93:443?security=reality&
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.74:443?security=reality&type=xhttp&headerType=&path=%2F&host=&mode=auto&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31&spx=%2F#🇷🇺RUSSIA 8
 vless://669be00c-67b4-4b87-b08f-311c45abced2@212.233.74.218:8443?security=reality&sni=static.rutube.ru&fp=random&pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&sid=ffffffffff&flow=xtls-rprx-vision&type=tcp#🇷🇺RUSSIA 9
 vless://3b4d1c7f-4fd7-45bb-9251-79cd53a3e006@185.234.59.58:443?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&spx=%2F#🇷🇺RUSSIA 10
-
+vless://78302036-66e6-4018-ae95-d168cff5a475@helsinki.fonixapp.org:28264?security=reality&encryption=none&pbk=ETlf5jYSfWCurnzl9iZ3URUFHWB8_JWWR8jrp2UizVs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=9e7234a45944#🇫🇮Finland 1
+vless://9c346f20-432d-4c2b-9167-f94dace57425@37.27.220.218:18423?type=ws&encryption=none&path=/&host=&security=none#🇫🇮Finland 2 
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇨🇦Canada
